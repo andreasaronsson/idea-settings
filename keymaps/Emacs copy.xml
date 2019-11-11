@@ -1,17 +1,57 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
-  <action id="CommentByBlockComment">
-    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
   </action>
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="alt semicolon" />
-    <keyboard-shortcut first-keystroke="ctrl c" />
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateVersionControlToolWindow" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl c" />
   </action>
-  <action id="CopyPaths" />
-  <action id="FindInPath" />
-  <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="alt i" />
+  <action id="Diff.ShowDiff" />
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="delete" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  <action id="EditorAddOrRemoveCaret" />
+  <action id="EditorAddRectangularSelectionOnMouseDrag" />
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="EditorContextInfo" />
+  <action id="EditorCreateRectangularSelection" />
+  <action id="EditorCreateRectangularSelectionOnMouseDrag" />
+  <action id="EditorCutLineBackward">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="EditorDeleteToWordEnd" />
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="alt back_space" />
+  </action>
+  <action id="EditorFocusGutter" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="EditorShowGutterIconTooltip" />
+  <action id="EditorToggleStickySelection">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="GotoSuperMethod" />
 </keymap>

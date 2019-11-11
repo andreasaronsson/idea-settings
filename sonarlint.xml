@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.volvofinans.net" />
+          <token>df99df9edf9bdfc9dfc8df99dfc9df9cdf9cdfc8df9adf9edf93dfcfdf9fdf9bdfcbdfcedf92df9fdfc8df98df9fdf9fdfc9dfcbdf9adfc8df9ddfc9dfcedf9edfc9dfcedf93df99df98dfcfdf9adfc8</token>
+          <option name="name" value="vfin" />
+          <organizationKey>default-organization</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
