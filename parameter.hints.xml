@@ -5,5 +5,10 @@
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
     </blacklists>
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="kotlin" />
+      <language id="Groovy" />
+    </disabledLanguages>
   </component>
 </application>
