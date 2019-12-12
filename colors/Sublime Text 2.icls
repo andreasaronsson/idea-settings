@@ -1,7 +1,7 @@
 <scheme name="Sublime Text 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2019-12-12T09:45:07</property>
+    <property name="modified">2019-12-12T10:49:32</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -406,7 +406,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3c3f41" />
+        <option name="BACKGROUND" value="fd4a52" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="3c3f41" />
         <option name="ERROR_STRIPE_COLOR" value="bc3f3c" />
