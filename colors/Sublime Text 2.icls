@@ -1,7 +1,7 @@
 <scheme name="Sublime Text 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2019-12-22T09:22:32</property>
+    <property name="modified">2019-12-22T11:03:54</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -11,7 +11,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Inconsolata" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
@@ -406,7 +406,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="fd4a52" />
+        <option name="BACKGROUND" value="571119" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="3c3f41" />
         <option name="ERROR_STRIPE_COLOR" value="bc3f3c" />
