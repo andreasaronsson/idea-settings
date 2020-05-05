@@ -7,6 +7,11 @@
         <option value="java:S1488" />
       </set>
     </option>
+    <option name="fileExclusions">
+      <list>
+        <option value="**/*.html" />
+      </list>
+    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>

@@ -1,6 +1,8 @@
 <application>
   <component name="UISettings">
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="16" />
+    <option name="MAX_LOOKUP_WIDTH2" value="924" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+    <option name="SHOW_INPLACE_COMMENTS" value="true" />
   </component>
 </application>
