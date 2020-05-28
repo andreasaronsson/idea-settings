@@ -1,12 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="java:S1104" />
-        <option value="java:S115" />
-        <option value="java:S1488" />
-      </set>
-    </option>
     <option name="fileExclusions">
       <list>
         <option value="**/*.html" />
@@ -23,5 +16,10 @@
         </SonarQubeServer>
       </list>
     </option>
+    <rules>
+      <Rule active="false" key="java:S1104" />
+      <Rule active="false" key="java:S1488" />
+      <Rule active="false" key="java:S115" />
+    </rules>
   </component>
 </application>
